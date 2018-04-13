@@ -4,7 +4,7 @@ This repository contains privioning files for 2 webservers running behind a load
 - vagrant
 ## Setup
 - Install vagrant.
- Go to (vagrant docs)[https://www.vagrantup.com/docs/] and follow instructions to install vagrant.
+ Go to [vagrant docs](https://www.vagrantup.com/docs/) and follow instructions to install vagrant.
 - Clone this repository.
 
     `git clone git@github.com:NgangaMaryanne/HandsOnAssessment.git`
